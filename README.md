@@ -1,8 +1,8 @@
-# Eduland Master
+# Blood Plaza
 
-Welcome to Eduland Master👋
+Welcome to Blood Plaza 👋
 
-Eduland Master website helps a learner to find the trending skills  and provide them the resources required to be the industry ready person. threre are many blogs and videos related to web developement, cloud computing, productivity, devops, video editing,content writing etc. etc. from there they can skill up and be a job ready person. 
+Blood Plaza is a platform for blood donors & patient who cares most about needed once's heartbeat ❤
 
 
 ## Important Links
