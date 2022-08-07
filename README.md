@@ -2,8 +2,7 @@
 
 Welcome to Blood Plaza 👋
 
-Blood Plaza is a website platform for blood donors & patient who cares most about needed once's heartbeat. it collects the blood samples & maintain the quality of blood through by passing it through various labs. any donor or patient can contact or book an appoinment for donation of blood or for taking the blood in emergency. 
-There is also a QnA embded chatbot through which anyone can get the updates.
+Blood Plaza is a website platform for blood donors & patient who cares most about needed once's heartbeat ❤
 
 ## Important Links
 
@@ -11,6 +10,13 @@ There is also a QnA embded chatbot through which anyone can get the updates.
  - [Github Repository](https://github.com/coder-harsh/blood-plaza)
  - [Drop a query](https://twitter.com/coderharsh06)
 
+# Problem Statement
+
+As we know that finding the right & quality assured blood is how tough now a days. so I have created a website portal Blood Plaza for blood donors & patient. it collects the blood samples & maintain the quality of blood through by passing it through various labs. any donor or patient can contact or book an appoinment for donation of blood or for taking the blood in emergency. There is also a QnA embded chatbot through which anyone can get the updates.
+
+# Project Description
+
+Blood Plaza is a website platform who creates a connection between blood donors & patient. it collects the blood samples & maintain the quality of blood through by passing it through various labs. any donor or patient can contact or book an appoinment for donation of blood or for taking the blood in emergency. There is also a QnA embded chatbot through which anyone can get the updates.
 
 ## Tech Stacks
 Html, Css, Javascript, Bootstrap, Microsoft Azure QnA bot & static web app.
