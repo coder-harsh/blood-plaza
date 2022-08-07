@@ -2,7 +2,7 @@
 
 Welcome to Blood Plaza 👋
 
-Blood Plaza is a platform for blood donors & patient who cares most about needed once's heartbeat ❤
+Blood Plaza is a swebsite platform for blood donors & patient who cares most about needed once's heartbeat. it collects the blood samples & maintain the quality of blood through by passing it through various labs. any donor or patient can contact or book an appoinment for donation of blood or for taking the blood in emergency. 
 
 
 ## Important Links
@@ -21,8 +21,6 @@ Blood Plaza is a platform for blood donors & patient who cares most about needed
 - [@coder-harsh](https://github.com/coder-harsh)
 
 
-
-
 ## Screenshots
 
 ![Website Screenshot](https://github.com/coder-harsh/blood-plaza/blob/main/assets/img/bloodplaza.png)
@@ -31,7 +29,7 @@ Blood Plaza is a platform for blood donors & patient who cares most about needed
 I have created this project for Future Reday Talent internship & deployed in on Microsoft Azure Cloud using Static web app & Github.
 
 ## Tech Stacks
-Html, Css, Javascript, Bootstrap
+Html, Css, Javascript, Bootstrap, Microsoft Azure QnA bot & static web app.
 
 
 ## Used By
