@@ -7,7 +7,7 @@ Blood Plaza is a platform for blood donors & patient who cares most about needed
 
 ## Important Links
 
-- [Live Preview](https://purple-island-0542c4710.1.azurestaticapps.net/)
+- [Live Preview](https://mango-bush-0946bbb00.1.azurestaticapps.net/)
  - [Github Repository](https://github.com/coder-harsh/blood-plaza)
  - [Drop a query](https://twitter.com/coderharsh06)
 
