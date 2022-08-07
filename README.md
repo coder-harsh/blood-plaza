@@ -12,13 +12,12 @@ Blood Plaza is a swebsite platform for blood donors & patient who cares most abo
  - [Drop a query](https://twitter.com/coderharsh06)
 
 
+## Tech Stacks
+Html, Css, Javascript, Bootstrap, Microsoft Azure QnA bot & static web app.
+
 ## Video Demo
 [https://youtu.be/TJdS196xboc](https://youtu.be/TJdS196xboc)
 
-
-## Authors
-
-- [@coder-harsh](https://github.com/coder-harsh)
 
 
 ## Screenshots
@@ -28,9 +27,6 @@ Blood Plaza is a swebsite platform for blood donors & patient who cares most abo
 
 I have created this project for Future Reday Talent internship & deployed in on Microsoft Azure Cloud using Static web app & Github.
 
-## Tech Stacks
-Html, Css, Javascript, Bootstrap, Microsoft Azure QnA bot & static web app.
-
 
 ## Used By
 
@@ -38,6 +34,9 @@ This project is created for:
 
 - Future Ready Talent Internship
 
+## Authors
+
+- [@coder-harsh](https://github.com/coder-harsh)
 
 ## 🚀 About Me
 I'm a full stack developer...
