@@ -13,12 +13,12 @@ Blood Plaza is a platform for blood donors & patient who cares most about needed
 
 
 ## Video Demo
-[https://youtu.be/4EIE2zqGbkM](https://youtu.be/4EIE2zqGbkM)
+[https://youtu.be/TJdS196xboc](https://youtu.be/TJdS196xboc)
+
 
 ## Authors
 
 - [@coder-harsh](https://github.com/coder-harsh)
-
 
 
 
