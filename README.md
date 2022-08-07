@@ -20,7 +20,7 @@ Blood Plaza is a platform for blood donors & patient who cares most about needed
 - [@coder-harsh](https://github.com/coder-harsh)
 
 
-![Logo](https://github.com/coder-harsh/blood-plaza/blob/main/assets/img/logo.svg)
+
 
 
 ## Screenshots
