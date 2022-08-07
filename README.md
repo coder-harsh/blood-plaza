@@ -25,7 +25,7 @@ Blood Plaza is a platform for blood donors & patient who cares most about needed
 
 ## Screenshots
 
-![Website Screenshot](https://github.com/coder-harsh/eduland-master/blob/main/assets/img/bloodplaza.png)
+![Website Screenshot](https://github.com/coder-harsh/blood-plaza/blob/main/assets/img/bloodplaza.png)
 ## Appendix
 
 I have created this project for Future Reday Talent internship & deployed in on Microsoft Azure Cloud using Static web app & Github.
