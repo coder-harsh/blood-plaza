@@ -2,7 +2,7 @@
 
 Welcome to Blood Plaza 👋
 
-Blood Plaza is a swebsite platform for blood donors & patient who cares most about needed once's heartbeat. it collects the blood samples & maintain the quality of blood through by passing it through various labs. any donor or patient can contact or book an appoinment for donation of blood or for taking the blood in emergency. 
+Blood Plaza is a website platform for blood donors & patient who cares most about needed once's heartbeat. it collects the blood samples & maintain the quality of blood through by passing it through various labs. any donor or patient can contact or book an appoinment for donation of blood or for taking the blood in emergency. 
 
 
 ## Important Links
