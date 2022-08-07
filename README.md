@@ -12,11 +12,11 @@ Blood Plaza is a website platform for blood donors & patient who cares most abou
 
 # Problem Statement
 
-As we know that finding the right & quality assured blood is how tough now a days. so I have created a website portal Blood Plaza for blood donors & patient. it collects the blood samples & maintain the quality of blood through by passing it through various labs. any donor or patient can contact or book an appoinment for donation of blood or for taking the blood in emergency. There is also a QnA embded chatbot through which anyone can get the updates.
+As we know that finding the right & quality assured blood is how tough now a days. Every year people in lakhs lost their lives due to efficiency of blood at right time. so I have created a website portal Blood Plaza for blood donors & patient. it collects the blood samples & maintain the quality of blood through by passing it through various labs. any donor or patient can contact or book an appoinment for donation of blood or for taking the blood in emergency. There is also a QnA embded chatbot through which anyone can get the updates.
 
 # Project Description
 
-Blood Plaza is a website platform who creates a connection between blood donors & patient. it collects the blood samples & maintain the quality of blood through by passing it through various labs. any donor or patient can contact or book an appoinment for donation of blood or for taking the blood in emergency. There is also a QnA embded chatbot through which anyone can get the updates.
+Blood Plaza is a website platform who creates a connection between blood donors & patient. it collects the blood samples & maintain the quality of blood through by passing it through various labs. any donor or patient can contact or book an appoinment for donation of blood or for taking the blood in emergency. There is also a QnA embded chatbot through which anyone can get the updates. It creates a connection between hospital, donor, and blood accepter.
 
 ## Tech Stacks
 Html, Css, Javascript, Bootstrap, Microsoft Azure QnA bot & static web app.
